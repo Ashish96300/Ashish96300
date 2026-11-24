@@ -65,7 +65,7 @@ Hey, I'm **Ashish Sen** — a developer who enjoys turning ideas into working pr
 ## 🛠️ THE TOOLKIT
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,reactjs,nextjspython,react,nextjs,nodejs,express,fastapi,mongodb,postgres,docker,git,github&perline=7" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,reactjs,nextjs,python,react,nextjs,nodejs,express,fastapi,mongodb,postgres,docker,git,github&perline=7" alt="Technology stack"/>
 </p>
 
 ## 📡 SIGNALS FROM THE CITY
