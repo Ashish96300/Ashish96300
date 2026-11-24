@@ -1,36 +1,20 @@
-<!-- VICE CITY // ASHISH SEN -->
-
-<p align="center">
+<!-- VICE CITY // ASHISH SEN --><p align="center">
   <img src="assets/vice-city-banner.png" alt="Ashish Sen — Vice City inspired banner" width="100%"/>
-</p>
-
-<h3 align="center">FULL-STACK DEVELOPER · AI ENTHUSIAST · BUILDER</h3>
-
-<p align="center">
+</p><h3 align="center">FULL-STACK DEVELOPER · AI ENTHUSIAST · BUILDER</h3><p align="center">
   <i>Building useful things. Exploring bold ideas. Shipping one commit at a time.</i>
-</p>
-
-<p align="center">
+</p><p align="center">
   <a href="https://github.com/Ashish96300">
     <img src="https://img.shields.io/badge/GitHub-Ashish96300-17152D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <img src="https://img.shields.io/badge/BASED_IN-INDIA-FF6FAE?style=for-the-badge" alt="Based in India"/>
   <img src="https://img.shields.io/badge/FOCUS-FULL_STACK_%2B_AI-25C6D9?style=for-the-badge" alt="Full stack and AI"/>
-</p>
-
----
-
-## 🌴 THE STORY
-
-Hey, I'm **Ashish Sen** — a developer who enjoys turning ideas into working products. I work across frontend and backend development, and I'm especially interested in AI-powered applications and the Model Context Protocol (MCP).
-
+</p>🌴 THE STORY
+Hey, I'm Ashish Sen — a developer who enjoys turning ideas into working products. I work across frontend and backend development, and I'm especially interested in AI-powered applications and the Model Context Protocol (MCP).
 - 🔭 Building full-stack applications and AI-first tools.
 - 🧠 Exploring LLM integrations, LangGraph and MCP.
 - ⚙️ Interested in backend systems, APIs and collaborative real-time experiences.
 - 🚀 Focused on becoming a stronger software engineer through building.
-
-## 🌆 THE PROJECT GARAGE
-
+🌆 THE PROJECT GARAGE
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -60,28 +44,16 @@ Hey, I'm **Ashish Sen** — a developer who enjoys turning ideas into working pr
       <a href="https://oqita-aivideoassistant.streamlit.app/">Open the demo ↗</a>
     </td>
   </tr>
-</table>
-
-## 🛠️ THE TOOLKIT
-
+</table>🛠️ THE TOOLKIT
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,nodejs,express,fastapi,mongodb,postgres,docker,git,github&perline=7" alt="Technology stack"/>
-</p>
-
-## 📡 SIGNALS FROM THE CITY
-
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,react,nextjs,nodejs,express,fastapi,mongodb,postgres,docker,git,github&perline=7" alt="Technology stack"/>
+</p>📡 SIGNALS FROM THE CITY
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashish96300&show_icons=true&hide_border=true&bg_color=15152D&title_color=FF6FAE&icon_color=25C6D9&text_color=F7EAF2" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish96300&layout=compact&hide_border=true&bg_color=15152D&title_color=FF6FAE&text_color=F7EAF2" alt="Most used languages"/>
-</p>
-
-<p align="center">
+</p><p align="center">
   <img src="https://streak-stats.demolab.com?user=Ashish96300&hide_border=true&background=15152D&ring=FF6FAE&fire=FF9B71&currStreakLabel=25C6D9&sideLabels=F7EAF2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B9A9C8" alt="GitHub contribution streak"/>
-</p>
-
----
-
-<p align="center">
+</p><p align="center">
   <b>KEEP BUILDING. KEEP EXPLORING.</b><br/>
   <sub>VICE CITY // EST. 2026</sub>
 </p>
